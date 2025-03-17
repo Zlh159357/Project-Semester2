@@ -1,0 +1,9 @@
+x=int(input("Please enter your age: "))
+if x<=19:
+        print("you are qualify for student discounts")
+elif 20<= x <=54:
+        print("you are qualify for no age discounts")
+elif x>=55:
+        print("you can receive senior discounts")
+else:
+        print("Please enter a prop
