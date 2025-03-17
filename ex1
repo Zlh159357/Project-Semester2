@@ -1,0 +1,4 @@
+x=int(input("Enter a number: "))
+y=int(x)*2
+print("The result is")
+print(y)
