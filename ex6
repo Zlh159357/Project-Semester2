@@ -1,0 +1,6 @@
+x=int(input("Please enter a number: "))
+y=int(x-1)
+for i in range(y,0,-1):
+        x=x*i
+print("The factorial is:")
+print(x)
