@@ -1,0 +1,8 @@
+studentNames = ["Lisa", "Liam", "Leo", "Larry", "Linda"]
+for name in studentNames:
+    print(name + " Evans")
+
+new_name = input("Please add another name: ")
+studentNames.append(new_name)
+for name in studentNames:
+    print(name + " Evans")
