@@ -1,0 +1,4 @@
+x=str(input("Enter your name: "))
+y=x.upper()
+print("Your name is: ")
+print(y)
