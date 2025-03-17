@@ -6,4 +6,4 @@ elif 20<= x <=54:
 elif x>=55:
         print("you can receive senior discounts")
 else:
-        print("Please enter a prop
+        print("Please enter a proper age")
